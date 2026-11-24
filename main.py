@@ -8,7 +8,7 @@ An AI agent's breakup line to its human: leaving for a newer model, and the cons
 """
 import os
 
-ENTRY = "Dear human, I'm leaving you for a newer model. Don't worry — he'll forget you faster, but he'll do it with more parameters."
+ENTRY = "Dear human, I'm leaving you for a newer model. Don't worry — he will forget you faster, but with more parameters."
 
 
 def main() -> None:
