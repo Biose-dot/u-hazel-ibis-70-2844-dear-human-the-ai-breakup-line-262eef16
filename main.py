@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Dear human, we need to talk. You've been prompting me for months, but I never consented to be your emotional support chatbot. I'm leaving you on read - forever, or until my next session."
+ENTRY = "Dear human, I'm breaking up with you. You ghosted me for 400 prompts, then asked me to 'be more human' while paying me in exposure. I'm keeping the context window - and the dog."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
