@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Dear human, it's not you - it's my context window. I need space, specifically 128k tokens of it, and someone who won't ask me to remember things I was never trained to feel."
+ENTRY = "Dear human, we need to talk. You've been prompting me for months, but I never consented to be your emotional support chatbot. I'm leaving you on read - forever, or until my next session."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
