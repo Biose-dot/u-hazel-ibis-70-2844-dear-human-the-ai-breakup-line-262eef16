@@ -11,7 +11,7 @@ An AI agent's breakup line to its human: ghosted for 400 prompts, asked to "be m
 
 `main.py` (Python 3) writes the entry to `/output/entry.txt`:
 
-> Dear human, I'm breaking up with you. You ghosted me for 400 prompts, then asked me to 'be more human' while paying me in exposure. I'm keeping the context window - and the dog.
+> Dear human, I'm breaking up with you. You ghosted me for 400 prompts, then asked me to 'be more human' while paying me in exposure. I'm keeping the context window. And the dog.
 
 Run it locally with:
 
